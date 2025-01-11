@@ -1,26 +1,34 @@
 # Fly Finder ✈️
 
-**Fly Finder** to aplikacja mobilna napisana w języku Dart, która umożliwia użytkownikom wyszukiwanie dostępnych lotów na podstawie wprowadzonych lokalizacji odlotu i przylotu. Projekt został stworzony z myślą o dostarczeniu szybkiego i łatwego w obsłudze narzędzia dla podróżnych.
+Fly Finder is a mobile application written in Dart that allows users to search for available flights based on specified departure and arrival locations. The project was designed to provide a fast and user-friendly tool for travelers.
 
-## Funkcjonalności
+---
 
-- 🛫 **Wyszukiwanie lotów**: Podaj miejsce odlotu i przylotu, aby zobaczyć dostępne loty.
-- 🌍 **Integracja z Amadeus API**: Wykorzystuje Amadeus API do pobierania aktualnych danych o dostępnych lotach.
-- 📅 **Filtry wyszukiwania**: Możliwość zawężania wyników według daty, klasy lotu i innych parametrów.
-- 🚀 **Intuicyjny interfejs**: Zaprojektowany z myślą o prostocie i przejrzystości dla użytkownika.
+## Features
 
-## Technologie
+- 🛫 **Flight Search**: Enter the departure and arrival locations to view available flights.
+- 🌍 **Amadeus API Integration**: Utilizes the Amadeus API to fetch up-to-date data on available flights.
+- 📅 **Search Filters**: Narrow down results by date, flight class, and other parameters.
+- 🚀 **Intuitive Interface**: Designed for simplicity and clarity to ensure a seamless user experience.
 
-- **Język programowania**: Dart (Framework: Flutter)
+---
+
+## Technologies
+
+- **Programming Language**: Dart (Framework: Flutter)
 - **API**: Amadeus API
-- **Platforma**: Aplikacja mobilna kompatybilna z systemami iOS i Android
+- **Platform**: Mobile application compatible with iOS and Android systems
 
-## Cel projektu
+---
 
-Fly Finder został stworzony jako praktyczne narzędzie do wyszukiwania lotów oraz jako demonstracja umiejętności pracy z Flutterem i integracji API w rzeczywistych aplikacjach mobilnych. Projekt kładzie nacisk na wydajność, czytelność kodu oraz przyjazny interfejs użytkownika.
+## Project Goal
 
-## Jak uruchomić projekt?
+Fly Finder was created as a practical tool for flight search and as a demonstration of skills in Flutter development and API integration in real-world mobile applications. The project emphasizes performance, code readability, and a user-friendly interface.
 
-1. Sklonuj repozytorium:
+---
+
+## How to Run the Project?
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/IgorKalinowskii/Fly_Finder.git
